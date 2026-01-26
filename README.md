@@ -42,7 +42,7 @@
 
 ### 🕯️
 
-> *Aah, you were at my side, all along.,  
+> *Aah, you were at my side, all along.  
 > My true mentor... My guiding moonlight...*
 
 ---
