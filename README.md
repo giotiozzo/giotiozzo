@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="100%" />
+  <img src="github-header-banner.png" width="100%" />
 </p>
 
 <h1 align="center" style="color:#701705;">Hi, I'm Giorgia </h1>
