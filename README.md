@@ -36,6 +36,7 @@
 ![Fortran](https://img.shields.io/badge/Fortran-701705?style=flat-square&logo=fortran&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-701705?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-701705?style=flat-square&logo=linux&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-701705?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
