@@ -17,7 +17,7 @@
 - 🎓 Bachelor’s degree in **Astronomy** — *University of Bologna*  
 - 📚 Master’s student in **Astrophysics and Cosmology** — *University of Bologna*
 - 📚 Bachelor's student in **Aerospace Engineering** - *University of Bologna*
-- ✈️ Currently **Erasmus student** at the **University of Potsdam**  
+- ✈️ **Erasmus student** at the **University of Potsdam**  for Winter Semester 2025/2026
 
 ---
 
